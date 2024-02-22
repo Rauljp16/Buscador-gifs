@@ -6,11 +6,11 @@
 
 🛠 **Creado con Angular + Bootstrap**
 
-⚡ Proyecto realizado a traves de udemy.
+⚡ Proyecto realizado a traves de Udemy.
 
 <br/>
 
-- Este proyecto lo he realizado para mejorar mis conocimientos de programación a través de un curso de udemy.
+- Este proyecto lo he realizado para mejorar mis conocimientos de programación a través de un curso de Udemy.
   
   Gracias a el he obtenido las bases de Angular.
 
