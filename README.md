@@ -6,7 +6,6 @@
 
 🛠 **Creado con Angular + Bootstrap**
 
-⚡ Proyecto realizado a traves de Udemy.
 
 <br/>
 
